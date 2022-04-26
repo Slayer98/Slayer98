@@ -1,6 +1,6 @@
 
 <p align="left">
-          <img src =https://github.com/Slayer98/Slayer98/blob/main/_main.gif width="150" height="150" style="margin-right: 500px;"> 
+          <img src =https://github.com/Slayer98/Slayer98/blob/main/_main.gif width="150" height="150" ><td></td> 
           <img src =https://github.com/Slayer98/Slayer98/blob/main/src/void.gif height="150"> 
 
 </p>
